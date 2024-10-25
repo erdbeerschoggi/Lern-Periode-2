@@ -25,7 +25,7 @@ Heute habe ich mit Mina mir überlegt wie und was wir genau machen. Also welche 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 8.11.2024
-- [ ]
+- [ ] hiiii
 - [ ]
 - [ ]
 - [ ]
