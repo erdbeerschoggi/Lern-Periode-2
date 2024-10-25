@@ -8,8 +8,8 @@ Ein Spiel wo man Hindernisse überwinden kann. Dann muss man 5 Erdbeeren sammeln
 
 ## 25.10.2024
 
-- [ ].....
-- [ ].....
+-[ ]
+-[ ] 
 
 ## 01.11.2024
 
