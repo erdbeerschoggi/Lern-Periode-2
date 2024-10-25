@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-
+Ein Spiel wo man Hindernisse überwinden kann. Dann muss man 5 Erdbeeren sammeln, während man hindernisse überwinded. Wenn man diese 5 Erdbeeren hat, kommt man an der Schockolade an. Die Erdbeeren wird dann mit der Schockolade gemischt und dann ist das Spiel zu Ende.
 
 ## 25.10.2024
 
