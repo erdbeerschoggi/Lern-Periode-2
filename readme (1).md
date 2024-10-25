@@ -18,7 +18,7 @@ Heute habe ich mit Mina mir überlegt wie und was wir genau machen. Also welche 
 - [ ] Ein Labyrinth skizzieren. Um zu wissen wie es genau aussehen soll.
 - [ ] Das Labyrinth programmieren. Wie es aussieht 
 - [ ] Das Labyrinth so programmieren das die Figur nicht aus dem Labyrinth durch die Wände raus kann.
-- [ ] Die Hindernisse designen.
+- [ ] Mit Mina Emoji und Labyrinth zusammen setzen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
