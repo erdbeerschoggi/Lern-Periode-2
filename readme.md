@@ -26,4 +26,7 @@ Heute habe ich rechechiert wie ich das Labyrinth designen kann. Dieses Labyrinth
 
 ## 8.11.2024
 
-
+- [ ] Anschauen wie wir den Code zusammen bringen
+- [ ] Minas und mein Code zusammen fügen
+- [ ] Spielfigur prorgammieren das sie durch das Labirynth gehen kann
+- [ ] 
