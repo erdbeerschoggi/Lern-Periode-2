@@ -15,8 +15,8 @@ Heute habe ich mit Mina mir überlegt wie und was wir genau machen. Also welche 
 
 ## 1.11.2024
 
-- [ ] Ein Labyrinth skizzieren. Um zu wissen wie es genau aussehen soll.
-- [ ] Das Labyrinth programmieren, wie es aussehen soll.
+- [x] Ein Labyrinth skizzieren. Um zu wissen wie es genau aussehen soll.
+- [x] Das Labyrinth programmieren, wie es aussehen soll.
 - [ ] Das Labyrinth so programmieren das die Figur nicht aus dem Labyrinth durch die Wände raus kann.
 - [ ] Mit Mina Emoji und Labyrinth zusammen setzen
 
