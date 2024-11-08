@@ -22,11 +22,20 @@ Heute habe ich mit Mina mir überlegt wie und was wir genau machen. Also welche 
 
 Heute habe ich rechechiert wie ich das Labyrinth designen kann. Dieses Labyrinth habe ich dann designed und so programmiert das ich es zeichnen kann. Dann habe ich noch mit Mina besprochen wie wir es genau zusammen stellen sollen.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 8.11.2024
 
-- [ ] Anschauen wie wir den Code zusammen bringen
-- [ ] Minas und mein Code zusammen fügen
-- [ ] Spielfigur prorgammieren das sie durch das Labirynth gehen kann
+- [X] Anschauen wie wir den Code zusammen bringen
+- [x] Minas und mein Code zusammen fügen
+- [x] Spielfigur prorgammieren das sie durch das Labirynth gehen kann
+
+Heute habe ich das Labyrinth schwieriger gemacht, weil das vorherige zu einfach zum lösen war. Ich habe mit Mina telefoniert da es heute Online Unterricht gab und wir haben uns entschieden den jetztigen code auf ihrem Laptop programmieren. Ich habe ihr das Labyrinth zugeschickt und dann haben wir die figur so programmiert das sie durchs Labyrinth gehen kann.
+
+## 15.11.2024
+
+- [ ] Mit Mina entscheiden wie wir den gleichen Code auf meinem Laptop hinzufügen
+- [ ] Den Anfang des Spiels programmieren (Also so ein Jump and run game)
+- [ ] Die Erdbeeren im Jump and run hinzufügen
+- [ ] Erdbeeren sammelbar machen
+      
       
