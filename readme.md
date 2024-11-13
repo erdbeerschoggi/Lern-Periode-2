@@ -34,8 +34,8 @@ Heute habe ich das Labyrinth schwieriger gemacht, weil das vorherige zu einfach 
 ## 15.11.2024
 
 - [ ] Mit Mina entscheiden wie wir den gleichen Code auf meinem Laptop hinzufügen
-- [ ] Den Anfang des Spiels programmieren (Also so ein Jump and run game)
-- [ ] Die Erdbeeren im Jump and run hinzufügen
+- [ ] Den Anfang des Spiels programmieren (So wie das Dino spiel auf google)
+- [ ] Die Erdbeeren ins Spiel hinzufügen
 - [ ] Erdbeeren sammelbar machen
       
       
