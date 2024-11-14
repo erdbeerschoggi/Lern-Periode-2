@@ -33,9 +33,21 @@ Heute habe ich das Labyrinth schwieriger gemacht, weil das vorherige zu einfach 
 
 ## 15.11.2024
 
-- [ ] Mit Mina entscheiden wie wir den gleichen Code auf meinem Laptop hinzufügen
-- [ ] Den Anfang des Spiels programmieren (So wie das Dino spiel auf google)
+- [x] Mit Mina entscheiden wie wir den gleichen Code auf meinem Laptop hinzufügen
+- [x] Den Anfang des Spiels programmieren (So wie das Dino spiel auf google)
 - [ ] Die Erdbeeren ins Spiel hinzufügen
 - [ ] Erdbeeren sammelbar machen
+
+Wir haben uns entschieden das wie immer zusammen coden und dann Mina oder ich Mina den Code zuschicke und wir das dann einsetzen. Bei mir ist es ab und zu schwieriger den code Einzufügen aber ich habe es jetzt geschafft.
+Wir haben auch unsere Idee verändert und zwar das am Anfang wie das Dino Spiel auf Google funktioniert, bis unsere Figur 15 Erdbeeren gesammelt hat dann natürlich geht die Figur durchs Labyrinth. 
+Wir haben auch weiter dran gemacht und zwar das Jump n Run (Wie das google Dino Spiel) programmiert. Dies haben wir auf Minas Laptop Coded und sie hat es mir dann zugeschickt.
+
+
+## 21.11.24
+
+- [ ] Erdbeeren ins Spiel hinzufügen
+- [ ] Erdbeeren sammelbar machen
+- [ ] Hindernisse des Spieles verbessern
+- [ ] Eine Schleife erstellen so das man das Spiel immer wieder spielen kann. Aber dies so machen das dass Spiel immer schwieriger wird.
       
       
