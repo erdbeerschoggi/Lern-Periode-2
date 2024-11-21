@@ -48,6 +48,6 @@ Wir haben auch weiter dran gemacht und zwar das Jump n Run (Wie das google Dino 
 - [ ] Erdbeeren ins Spiel hinzufügen
 - [ ] Erdbeeren sammelbar machen
 - [ ] Hindernisse des Spieles verbessern
-- [ ] Eine Schleife erstellen so das man das Spiel immer wieder spielen kann. Aber dies so machen das dass Spiel immer schwieriger wird.
+- [ ] Das es nicht mehr so flickert
       
       
