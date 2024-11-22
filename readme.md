@@ -45,8 +45,8 @@ Wir haben auch weiter dran gemacht und zwar das Jump n Run (Wie das google Dino 
 
 ## 21.11.24
 
-- [ ] Erdbeeren ins Spiel hinzufügen
-- [ ] Erdbeeren sammelbar machen
+- [ ] Labyrinth Spiel verbessern, so das bei jeder neuen runde das spiel schwieriger ist
+- [ ] schauen ob es einere bessere lösung hat, minas code in meinen interrgrieren.
 - [ ] Hindernisse des Spieles verbessern
 - [ ] Das es nicht mehr so flickert
       
