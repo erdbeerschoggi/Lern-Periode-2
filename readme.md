@@ -45,9 +45,16 @@ Wir haben auch weiter dran gemacht und zwar das Jump n Run (Wie das google Dino 
 
 ## 21.11.24
 
-- [ ] Labyrinth Spiel verbessern, so das bei jeder neuen runde das spiel schwieriger ist
+- [x] Labyrinth Spiel verbessern, so das bei jeder neuen runde das spiel schwieriger ist
 - [ ] schauen ob es einere bessere lösung hat, minas code in meinen interrgrieren.
-- [ ] Hindernisse des Spieles verbessern
-- [ ] Das es nicht mehr so flickert
+- [x] Hindernisse des Spieles verbessern
+- [x] Das es nicht mehr so flickert
+
+Heute haben wir den Jump n Run code verbessert und besprochen wie viele Levels wir machen möchten. Wir haben uns für 3 Levels entschieden. Da wir uns für drei Levels Entschieden haben erstellte ich 3 Labyrinthe, von einfach bis schwierig.Ich wollte noch die ausgabe des Labyrinths coden doch dazu kam ich nicht mehr.
+
+## 29.11.24
+- [ ] Labyrinth auf console ausgeben
+- [ ] Figur im labyrinth bewegen
+- [ ] Minas Code auf mein Program richtig übernehmen
       
       
