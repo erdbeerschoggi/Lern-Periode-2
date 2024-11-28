@@ -53,8 +53,16 @@ Wir haben auch weiter dran gemacht und zwar das Jump n Run (Wie das google Dino 
 Heute haben wir den Jump n Run code verbessert und besprochen wie viele Levels wir machen möchten. Wir haben uns für 3 Levels entschieden. Da wir uns für drei Levels Entschieden haben erstellte ich 3 Labyrinthe, von einfach bis schwierig.Ich wollte noch die ausgabe des Labyrinths coden doch dazu kam ich nicht mehr.
 
 ## 29.11.24
-- [ ] Labyrinth auf console ausgeben
-- [ ] Figur im labyrinth bewegen
+- [x] Labyrinth auf console ausgeben
+- [x] Figur im labyrinth bewegen
 - [ ] Minas Code auf mein Program richtig übernehmen
+
+Ich habe es geschafft die Labyrinthe auf der Konsole auszugeben. Am Anfang hatte ich nähmlich ein Problem, da es mir angezeigt hat das es ein Fehler gab, obwohl es nicht spezifisch im code einen hatte. Zuerst wollte ich es lösen und probierte es auch. Da ich es jedoch nicht herausgefunden habe kopierte ich meinen code in eine Mappe, wo ich es ausgeben konnte. Den Code für die Spielerbewegung von Mina funktionierte auch. Das einzige problem das ich noch verbessern muss, ist das flickern auf der Konsole. Das Labyrinth flickert die ganze Zeit und das Ziel wäre das es nicht flickert.
+
+## 28.11.24
+- [ ] Das Flickern der Ausagbe entfernen
+- [ ] Das Jump n run Spiel auf meinem Programm, so eingeben das die Hindernisse besser aussehen
+- [ ] Die Erdbeeren in das Programm hinein fügen
+- [ ] Die Schleife fürs ganze Programm anfang zu erstellen
       
       
