@@ -61,8 +61,17 @@ Ich habe es geschafft die Labyrinthe auf der Konsole auszugeben. Am Anfang hatte
 
 ## 28.11.24
 - [ ] Das Flickern der Ausagbe entfernen
-- [ ] Das Jump n run Spiel auf meinem Programm, so eingeben das die Hindernisse besser aussehen
+- [x] Das Jump n run Spiel auf meinem Programm, so eingeben das die Hindernisse besser aussehen
 - [ ] Die Erdbeeren in das Programm hinein fügen (Als emoji so das sie wie Erdbeeren aussehen)
-- [ ] Die Schleife fürs ganze Programm anfang zu erstellen
+- [x] Die Schleife fürs ganze Programm anfang zu erstellen
+
+Heute habe ich mit Mina daran gearbeitet den code zusammen zu bringen. Wir haben das per Teams gemacht, indem Mina ihren Screen geteilt hat und wir zusammen programmierten. Wir haben bis jetzt nur ungefähr den code zusammen gebracht und müssen es noch verfeinern.
+hat Kontextmenü
+
+## 06.12.24
+- [ ] Erdbeeren als emojis einfügen
+- [ ] Bei mir das Flickern wegmachen ( bei mina hat es kein flickern bei mir schon)
+- [ ] Den Code so Fertig bringen das man ungefähr das Spiel durchspielen kann
+- [ ] alle drei Levels programmieren
       
       
