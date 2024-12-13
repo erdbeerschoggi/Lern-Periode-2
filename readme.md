@@ -71,7 +71,15 @@ hat Kontextmenü
 ## 06.12.24
 - [ ] Erdbeeren als emojis einfügen
 - [ ] Bei mir das Flickern wegmachen ( bei mina hat es kein flickern bei mir schon)
-- [ ] Den Code so Fertig bringen das man ungefähr das Spiel durchspielen kann
-- [ ] alle drei Levels programmieren
+- [x] Den Code so Fertig bringen das man ungefähr das Spiel durchspielen kann
+- [x] alle drei Levels programmieren
+
+Heute haben ich und Mina unseren Code besser angeschaut und besprochen wie wir die 3 Levels machen wollen.Während sie unseren Coe noch verfeinert hat, habe ich nach einer Lösung für die 3 Levls gesucht und habe mich für die for-Schleife entschieden. Dann habe ich probiert den Code in die Schleife integrieren. Unterdessen hat Mina den Code für 1 Level komplett fertig gemacht. Ich bin jetzt noch nicht fertig mit der Schleife, da ich keine Lösung für den kompletten Code fand. Ich habe einwenig herum probiert doch es kam nichts heraus das funktionierte.
+
+## 13.12.24
+- [ ] Die Schleife fertig bringen, so das unser Programm 3 Levels hat.
+- [ ] Mit Mina schauen wie wir unser Projekt/Programm ganz fertig bringen und wie wir es präsentieren.
+
+
       
       
