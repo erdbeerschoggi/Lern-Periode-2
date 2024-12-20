@@ -5,7 +5,8 @@
 ## Fertiges Projekt
 In meinem und Minas Spiel hat man sozusagen zwei Stages zum Durchspielen. In der ersten Stage muss man ein Jump ’n’ Run durchspielen. Während des Jump ’n’ Runs sammelt man "Erdbeeren". In der zweiten Stage muss man ein Schoko-Labyrinth durchgehen. In unserem Spiel kann man bis zu drei Levels spielen. Jedes Mal, wenn man ein Level abschließt, wird "Okidoki, hier ist deine Erdbeerschoggi" ausgegeben. Wir wollten unser Spiel ein wenig anders machen, sodass es ein wenig lustig ist. Doch es hat dann nicht so ganz funktioniert. Aber da wir den Spruch so gut fanden, haben wir ihn drin gelassen.
 
-![Bildschirmaufnahme 2024-12-20 um 10 24 58](https://github.com/user-attachments/assets/4a01a21a-e3f5-48b4-a1ad-4319b0008e63)
+![Bildschirmaufnahme 2024-12-20 um 10 24 58 (1)](https://github.com/user-attachments/assets/7a1df14a-5a1d-46ac-8ce4-b56357a64022)
+
 
 
 ## Reflexion
