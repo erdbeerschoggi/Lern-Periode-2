@@ -102,6 +102,8 @@ Heute haben ich und Mina unseren Code besser angeschaut und besprochen wie wir d
 - [x] Die Schleife fertig bringen, so das unser Programm 3 Levels hat.
 - [x] Mit Mina schauen wie wir unser Projekt/Programm ganz fertig bringen und wie wir es präsentieren.
 
+Heute habe ich das Projekt mit Mina fertig gebracht und die Reflexion und das fertige Produkt beschrieben.
+
 
       
       
