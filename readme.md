@@ -7,6 +7,9 @@ In meinem und Minas Spiel hat man sozusagen zwei Stages zum Durchspielen. In der
 
 ![Bildschirmaufnahme 2024-12-20 um 10 24 58 (1)](https://github.com/user-attachments/assets/7a1df14a-5a1d-46ac-8ce4-b56357a64022)
 
+Hier ist das erste Level abgebildet nach dem man das jump n run geschafft hat kommt man zum Labyrinth:
+
+![Aufzeichnung 2024-12-20 104905](https://github.com/user-attachments/assets/dac15dcb-bfb2-40e9-98a7-770d37137ea6)
 
 
 ## Reflexion
