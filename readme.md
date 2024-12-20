@@ -2,10 +2,23 @@
 
 25.10 bis 20.12
 
-## Projekt
+## Fertiges Projekt
+In meinem und Minas Spiel hat man sozusagen zwei Stages zum Durchspielen. In der ersten Stage muss man ein Jump ’n’ Run durchspielen. Während des Jump ’n’ Runs sammelt man "Erdbeeren". In der zweiten Stage muss man ein Schoko-Labyrinth durchgehen. In unserem Spiel kann man bis zu drei Levels spielen. Jedes Mal, wenn man ein Level abschließt, wird "Okidoki, hier ist deine Erdbeerschoggi" ausgegeben. Wir wollten unser Spiel ein wenig anders machen, sodass es ein wenig lustig ist. Doch es hat dann nicht so ganz funktioniert. Aber da wir den Spruch so gut fanden, haben wir ihn drin gelassen.
+
+![Bildschirmaufnahme 2024-12-20 um 10 24 58](https://github.com/user-attachments/assets/4a01a21a-e3f5-48b4-a1ad-4319b0008e63)
 
 
 ## Reflexion
+Zum Anfang haben wir zusammen geplant, was wir genau machen wollen. Da wir den Spruch „Okidoki Erdbeerschoggi“ benutzen, hatten wir die Idee, diesen in unser Spiel zu integrieren. Dann war unsere Idee, ein marioartiges Spiel zu erstellen, bei dem man Erdbeeren sammeln und Hindernisse überwinden muss und am Schluss ein Puzzle lösen würde. Man würde dann Schokolade bekommen. Dann hätten sich die beiden gemischt, und zum Schluss würde man eine Erdbeerschoggi bekommen. So wäre der Satz „Okidoki, hier ist deine Erdbeerschoggi“ entstanden.
+
+Die Erdbeeren, die Schokolade und die Figur wollten wir als Emojis darstellen. Doch da es bei meinem Programm nicht so gut funktionierte, nahmen wir einfach einen Kreis für die Figur und Sterne für die Erdbeeren. Für die Schokolade hatten wir dann noch nichts. Nachdem wir unser Game grob geplant hatten, teilten wir die Aufgaben ein. Mina fing mit dem marioartigen Spiel an, und ich mit den Puzzles.
+
+Bei den Puzzles habe ich mir überlegt, welches Puzzle ich machen soll, und mich für ein Labyrinth entschieden. Währenddessen hat Mina herausgefunden, dass ein Jump ’n’ Run gut für unser Spiel wäre (also wie das Dino-Spiel von Google). Dann fing ich an mit der Recherche und fand nur Labyrinthe, die aus Hashtags gemacht wurden. Deswegen habe ich mich für die gleiche Art entschieden. Dann habe ich die drei Labyrinthe mit Hashtags erstellt.
+
+Als ich fertig war, half ich Mina mit dem Jump ’n’ Run, indem ich eine Schleife für drei Levels machen wollte. Doch es funktionierte nicht, und wir entschieden uns für einen anderen Weg, um die drei Levels nacheinander abzuspielen, indem wir einfach „TransitionToNextLevel“ benutzt und die Erdbeeren für die drei Levels definiert haben.
+
+Für das nächste Mal bei einer Zusammenarbeit könnten wir eine bessere Art finden, den Code zu teilen. Da wir uns den Code, den wir gemacht haben, gegenseitig geschickt haben und zusammen programmiert haben, während wir online per Call und Bildschirmteilen gearbeitet haben, könnten wir uns für das nächste Mal besser absprechen und vielleicht noch ein wenig mehr gemeinsam programmieren.
+
 
 ## Grob-Planung
 Ich und Mina möchten ein Marioartiges Spiel erstellen. In dem man 5 Erdbeeren sammeln muss, während man Hindernisse überwindet. Wenn man dann am Schluss ankommt, ist man vor einer Schokolade,um diese zu bekommen, muss man ein Puzzle machen. Wenn man die Schokolade hat, wird diese mit den Erbeeren gemischt und man bekommt Erdbeerschokolade oder auch besser und passend zum spiel gesagt, Erbdeerschoggi.Am Ende steht dann "Oki-doki, hier ist deine Erdbeerschoggi".
