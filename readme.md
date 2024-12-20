@@ -2,6 +2,11 @@
 
 25.10 bis 20.12
 
+## Projekt
+
+
+## Reflexion
+
 ## Grob-Planung
 Ich und Mina möchten ein Marioartiges Spiel erstellen. In dem man 5 Erdbeeren sammeln muss, während man Hindernisse überwindet. Wenn man dann am Schluss ankommt, ist man vor einer Schokolade,um diese zu bekommen, muss man ein Puzzle machen. Wenn man die Schokolade hat, wird diese mit den Erbeeren gemischt und man bekommt Erdbeerschokolade oder auch besser und passend zum spiel gesagt, Erbdeerschoggi.Am Ende steht dann "Oki-doki, hier ist deine Erdbeerschoggi".
 
